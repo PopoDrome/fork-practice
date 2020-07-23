@@ -1,3 +1,3 @@
 # fork-practice
 
-<h1>This heading was made from the master branch</h1>
+<h1>This heading was made from the first branch</h1>
